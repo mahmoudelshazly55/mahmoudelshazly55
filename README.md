@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahmoud Elshazly
 
 🎓 Computer Science Graduate  
-🚀 Junior DevOps Engineer / IT Support  
+🚀 Junior DevOps Engineer (CI/CD • Docker • Jenkins)
 
 I build hands-on DevOps projects focusing on CI/CD pipelines, containerization, and automation using real-world tools.
 
