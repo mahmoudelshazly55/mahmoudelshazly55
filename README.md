@@ -10,7 +10,8 @@ I build hands-on DevOps projects focusing on CI/CD pipelines, containerization, 
 ## 🛠 Technical Skills
 
 - Docker & Containers  
-- CI/CD Pipelines  
+- CI/CD Pipelines
+- Kubernetes  
 - Git & GitHub  
 - GitHub Actions  
 - Jenkins  
