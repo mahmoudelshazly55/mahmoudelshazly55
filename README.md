@@ -1,55 +1,98 @@
-# 👋 Hi, I'm Mahmoud Elshazly
+# Hi, I'm Mahmoud Elshazly 👋
 
-🎓 Computer Science Graduate  
-🚀 Junior DevOps Engineer (CI/CD • Docker • Jenkins)
+### Junior DevOps Engineer | Cloud & Infrastructure Enthusiast
 
-I build hands-on DevOps projects focusing on CI/CD pipelines, containerization, and automation using real-world tools.
+I'm a Computer Science graduate from Luxor University with a background in IT Support, networking, and DevOps.
 
----
+I'm passionate about automating workflows, building reliable infrastructure, and deploying applications using modern DevOps tools. I'm continuously improving my skills in cloud computing, containerization, CI/CD, and Kubernetes.
 
-## 🛠 Technical Skills
-
-- Docker & Containers  
-- CI/CD Pipelines
-- Kubernetes  
-- Git & GitHub  
-- GitHub Actions  
-- Jenkins  
-- Linux Basics  
-- AWS Fundamentals  
+- 🔭 Currently working on improving my DevOps and cloud engineering skills.
+- 🌱 Learning more about Kubernetes, Terraform, and infrastructure automation.
+- 💻 Hands-on experience with Docker, GitHub Actions, AWS EC2, Linux, and networking.
+- 🎯 Interested in Junior DevOps Engineer, DevOps Intern, and Cloud Support opportunities.
+- 📍 Based in Egypt.
 
 ---
 
-## 📂 Featured DevOps Projects
+## 🛠️ Technical Skills
 
-### 🚀 production-devops-pipeline
-- Production-style DevOps pipeline  
-- Dockerized application  
-- CI/CD workflow automation  
+### DevOps & Cloud
+- Docker & Docker Compose
+- GitHub Actions
+- Jenkins
+- Kubernetes (K3s)
+- AWS EC2, IAM, Security Groups, AWS CLI
+- Nginx
+- Traefik Ingress
+- Ansible
+- Terraform — Currently Learning
 
-### 🐳 nodejs-ci-docker-pipeline
-- Node.js application containerized with Docker  
-- CI pipeline integration  
-- Automated build & run process  
+### Systems & Networking
+- Linux
+- Windows Server
+- Active Directory
+- DNS & DHCP
+- TCP/IP
+- Cisco Networking
+- CCNA Fundamentals
+- Bash
 
-### 🔄 ci-github-actions-demo
-- CI pipeline using GitHub Actions  
-- Automated testing & build workflow  
-
-### ⚙️ jenkins-demo
-- Jenkins pipeline fundamentals  
-- Job configuration & automation concepts  
+### Development & Tools
+- Git & GitHub
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Express
+- PostgreSQL
 
 ---
 
-## 📌 Currently Learning
-- Kubernetes
-- Terraform
-- Advanced AWS Services
+## 🚀 Featured Project
+
+### [Thara-Nufa](https://github.com/mahmoudelshazly55/Thara-Nufa)
+
+**Full-Stack Service Booking Platform**
+
+React · TypeScript · Node.js · Express · PostgreSQL · Docker · GitHub Actions · AWS EC2 · Nginx · Kubernetes (K3s) · Traefik Ingress
+
+- Built a full-stack service booking platform using React, TypeScript, Node.js, Express, and PostgreSQL.
+- Containerized application services using Docker and Docker Compose.
+- Implemented CI/CD workflows using GitHub Actions.
+- Configured Kubernetes deployments and services using K3s.
+- Set up Traefik Ingress for Kubernetes traffic routing.
+- Worked with AWS EC2 and Nginx for application deployment and web traffic handling.
+
+🔗 [View Repository](https://github.com/mahmoudelshazly55/Thara-Nufa)
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/mahmoud-elshazly-20320127a/
+## 📚 Certifications & Learning
 
-⭐ Focused on practical DevOps skills and real-world projects.
+- CCNA 200-301
+- Red Hat System Administration I & II
+- GitHub Actions
+- Jenkins Fundamentals
+- AWS Cloud Practitioner Essentials
+- Meta Front-End Developer
+- NTI Cloud & DevOps Learning
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudelshazly55&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudelshazly55&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-elshazly-20320127a/)
+- [GitHub](https://github.com/mahmoudelshazly55)
+- Email: elshazlymahmoud97@gmail.com
+
+---
+
+⭐ *Always learning, building, and improving.*
